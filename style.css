@@ -1,0 +1,35 @@
+
+*{
+    background-color: black;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+}
+.one{
+    color: chartreuse;
+}
+.two{
+    color: brown;
+}
+.three{
+    color: yellow;
+}
+.four{
+    color: darkcyan;
+}
+.five{
+    color: coral;
+}
+.speech{
+    color: darkgreen;
+    background-color: white;
+    text-align: center;
+}
